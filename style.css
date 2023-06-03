@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* Create Create a top navigation bar with a background color */
+.topnav{
+    background-color: #1F2937;
+    overflow: hidden;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: right;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.topnav span {
+    float: left;
+    color: #F9FAF8;
+    font-size: 24px;
+  }
